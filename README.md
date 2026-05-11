@@ -15,7 +15,7 @@
 
 ### What you will practice
 
-- Building a **web frontend** with Streamlit that consumes a REST API
+- Building a **web frontend** w ith Streamlit that consumes a REST API
 - Running **3-service Docker Compose** stacks (frontend + backend + database)
 - Understanding **service-to-service communication** inside a Docker network
 
